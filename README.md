@@ -2,6 +2,8 @@
  A real time chat application with users and rooms.
 
  To run this application:
+
+ 
  Install dependencies:
  'npm install'
 
