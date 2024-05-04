@@ -13,6 +13,5 @@ To run the program:
 
 Access the program by opening a web browser and navigating to 'http://localhost:3000'.
 
-Built With
-Node.js
-Express
+
+This project was built with Node, express & websockets.
