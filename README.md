@@ -8,6 +8,7 @@
 Usage:
 To run the program:
 'npm start'
+
 Access the program by opening a web browser and navigating to 'http://localhost:3000'.
 
 Built With
